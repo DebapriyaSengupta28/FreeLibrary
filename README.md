@@ -1,5 +1,5 @@
 # FreeLibrary
 
-work in progress
+Main Repo. work in progress
 
-## Check out the prototype, click [here](https://github.com/DebapriyaSengupta28/FreeLibrary-prototype-)
+## Check out the prototype. [Click here](https://github.com/DebapriyaSengupta28/FreeLibrary-prototype-)
